@@ -5,6 +5,8 @@
 - Fajar Hikmal
 - Muhammad Arwani
 
+## Link Demo
+[Klik Tautan ini](https://f1d1-tugas-resume.netlify.app)
 
 ## Screenshot Git Flow
 
