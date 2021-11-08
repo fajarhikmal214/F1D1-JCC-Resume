@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+    margin: 20px auto;
+}
+img{
+    width:300px;
+    border-radius: 20px;
+}
+.flex{
+    display: flex;
+}
+.col-4{
+    flex:4;
+}
+.col-6{
+    flex: 6;
+}
