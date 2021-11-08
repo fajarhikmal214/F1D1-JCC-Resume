@@ -96,3 +96,29 @@ body {
     overflow-y: auto;
   }
 }
+
+
+.card{
+  flex:1;
+  min-width:300px;
+  max-width: 300px;
+  background-color: white;
+  margin: 30px;
+  padding:10px;
+  box-shadow: 5px 5px silver;
+  border-radius:10px;
+
+}
+.container{
+  width:90%;
+  margin:auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+img{
+  width:50%;
+  border-radius: 20px;
+}
+.card a{
+  text-decoration: none;
+}
