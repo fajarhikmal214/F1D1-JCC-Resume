@@ -9,15 +9,18 @@
 [Klik Tautan ini](https://f1d1-tugas-resume.netlify.app)
 
 ## Screenshot Git Stash
-![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/master/image/git-stash%201.jpeg)
+![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/master/image/Stash%201.JPG)
 
 
-![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/master/image/git-stash%202.jpeg)
+![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/master/image/Stash%202.JPG)
+
+
+![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/master/image/Stash%203.JPG)
 
 
 ## Screenshot Git Flow
 
-###  Inisisasi Flow
+###  Inisiasi Flow
 ![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/develop/image/1.%20Inisiasi%20Git%20Flow.JPG)
 
 
