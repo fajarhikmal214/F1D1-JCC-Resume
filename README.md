@@ -8,6 +8,13 @@
 ## Link Demo
 [Klik Tautan ini](https://f1d1-tugas-resume.netlify.app)
 
+## Screenshot Git Stash
+![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/master/image/git-stash%201.jpeg)
+
+
+![Screenshot](https://raw.githubusercontent.com/fajarhikmal214/F1D1-JCC-Resume/master/image/git-stash%202.jpeg)
+
+
 ## Screenshot Git Flow
 
 ###  Inisisasi Flow
