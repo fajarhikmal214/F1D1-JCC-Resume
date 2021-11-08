@@ -386,12 +386,7 @@ a {
 }
 
 .crop {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 180px;
   overflow: hidden;
 }
-
-/* .crop img {
-  width: 120px;
-  height: 120px;
-} */
